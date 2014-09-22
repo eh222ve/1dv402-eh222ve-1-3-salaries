@@ -135,6 +135,15 @@
   <data name="NumberOfSalaries_Prompt" xml:space="preserve">
     <value>Enter the number of salaries you wish to calculate: </value>
   </data>
+  <data name="Receipt_Average" xml:space="preserve">
+    <value>Average:</value>
+  </data>
+  <data name="Receipt_Dispersion" xml:space="preserve">
+    <value>Dispersion:</value>
+  </data>
+  <data name="Receipt_Median" xml:space="preserve">
+    <value>Median:</value>
+  </data>
   <data name="Unknown_Error" xml:space="preserve">
     <value>Not a valid input</value>
   </data>

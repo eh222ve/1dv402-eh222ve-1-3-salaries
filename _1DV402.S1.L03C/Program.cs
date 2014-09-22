@@ -24,9 +24,11 @@ namespace _1DV402.S1.L03C
         //Prints out result to Console
         static void ViewResult(int[] salary)
         {
-            Console.WriteLine("\nAverage: {0:c0}", salary.Average());
-            Console.WriteLine("\nMedian: {0:c0}", MyExtensions.Median(salary));
-            Console.WriteLine("\nDispersion: {0:c0}", MyExtensions.Dispersion(salary));
+            Console.WriteLine("---------------------------------");
+            Console.WriteLine("{0,-15}{1,15:c0}", Resources.Receipt_Average, salary.Average());
+            Console.WriteLine("{0,-15}{1,15:c0}", Resources.Receipt_Median, MyExtensions.Median(salary));
+            Console.WriteLine("{0,-15}{1,15:c0}", Resources.Receipt_Dispersion, MyExtensions.Dispersion(salary));
+            Console.WriteLine("---------------------------------");
 
             for (int i = 0; i < salary.Length; i++)
             {
@@ -34,7 +36,7 @@ namespace _1DV402.S1.L03C
                 {
                     Console.WriteLine();
                 }
-                Console.Write("{0, 8}", salary[i]);
+                Console.Write("{0, 10}", salary[i]);
             }
             Console.WriteLine();
 

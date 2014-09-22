@@ -8,3 +8,8 @@ C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-2-salaries\_1DV402.S1.L03C\obj\D
 C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\bin\Debug\_1DV402.S1.L03C.exe.config
 C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\obj\Debug\_1DV402.S1.L03C.exe
 C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\obj\Debug\_1DV402.S1.L03C.pdb
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\bin\Debug\_1DV402.S1.L03C.exe
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\bin\Debug\_1DV402.S1.L03C.pdb
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\obj\Debug\_1DV402.S1.L03C.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\obj\Debug\_1DV402.S1.L03C.Properties.Resources.resources
+C:\Users\Erik\Documents\GitHub\1dv402-eh222ve-1-3-salaries\_1DV402.S1.L03C\obj\Debug\_1DV402.S1.L03C.csproj.GenerateResource.Cache

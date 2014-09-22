@@ -115,6 +115,33 @@ namespace _1DV402.S1.L03C.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Average:.
+        /// </summary>
+        internal static string Receipt_Average {
+            get {
+                return ResourceManager.GetString("Receipt_Average", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Dispersion:.
+        /// </summary>
+        internal static string Receipt_Dispersion {
+            get {
+                return ResourceManager.GetString("Receipt_Dispersion", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Median:.
+        /// </summary>
+        internal static string Receipt_Median {
+            get {
+                return ResourceManager.GetString("Receipt_Median", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Not a valid input.
         /// </summary>
         internal static string Unknown_Error {
