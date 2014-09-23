@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ArgumentOutOfRange_Error" xml:space="preserve">
-    <value>\"{0}\" is not valid, has to exceed {1}.</value>
+    <value>"{0}" is not valid, minimum value is {1}.</value>
   </data>
   <data name="Console_Title" xml:space="preserve">
     <value>Calculating salaries</value>

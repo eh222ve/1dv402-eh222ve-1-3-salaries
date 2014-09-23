@@ -61,7 +61,7 @@ namespace _1DV402.S1.L03C.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to \&quot;{0}\&quot; is not valid, has to exceed {1}..
+        ///   Looks up a localized string similar to &quot;{0}&quot; is not valid, minimum value is {1}..
         /// </summary>
         internal static string ArgumentOutOfRange_Error {
             get {
